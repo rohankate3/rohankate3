@@ -30,4 +30,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohan-kate-111333250)
 ---
 
-⭐️ *Thanks for visiting my profile! Have a great day!* 🌟
+**Cheers!**
