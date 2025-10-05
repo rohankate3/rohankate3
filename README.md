@@ -1,14 +1,8 @@
 # Hi there, I'm Rohan 👋
 
-💻 **MERN Stack Developer | TypeScript | SAP Fiori/UI5**
-
----
-
-### 🚀 About Me
-- ✅ Built and completed a **Stock Recommendation and Portfolio Optimization System** using Python and Machine Learning  
-- 🌱 Currently learning **SAP Fiori** 
-- 💬 Ask me about **React, Node.js
----
+💻 **MERN Stack Developer | SAP Fiori/UI5 | Machine Learning Enthusiast**
+🔥 Coffee-fueled code machine
+⚡ Engineer by trade, problem-solver by choice
 
 ### 🛠️ Tech Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -26,6 +20,7 @@
 
 ### 📈 GitHub Stats
 ![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohankate3&show_icons=true&theme=radical)
+<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohankate3&layout=compact&theme=radical)
 
 ---
