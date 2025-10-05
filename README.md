@@ -25,17 +25,11 @@
 ---
 
 ### 📈 GitHub Stats
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohan-kate&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-kate&layout=compact&theme=radical)
+![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohankate3&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohankate3&layout=compact&theme=radical)
 
 ---
 
-### 🧩 Projects
-- 📈 [Stock Recommendation & Portfolio Optimization System](https://github.com/rohan-kate/stock-portfolio-optimizer) — ML-based system that clusters users, categorizes stocks, ranks them using normalization, and optimizes portfolios using a neighbor search algorithm  
-- 🪙 [Financly](https://github.com/rohan-kate/financly) — Personal Finance Dashboard built with React and Firebase  
-- 🧠 [Study Notion](https://github.com/rohan-kate/study-notion) — Online Course Platform using MERN stack  
-
----
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohan-kate-111333250)
