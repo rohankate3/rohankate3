@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Rohan 👋
 
-<!--
-**rohankate3/rohankate3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **MERN Stack Developer | TypeScript | SAP Fiori/UI5**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- ✅ Built and completed a **Stock Recommendation and Portfolio Optimization System** using Python and Machine Learning  
+- 🌱 Currently learning **SAP Fiori** 
+- 💬 Ask me about **React, Node.js
+---
+
+### 🛠️ Tech Stack
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=microsoftplaywright&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohan-kate&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-kate&layout=compact&theme=radical)
+
+---
+
+### 🧩 Projects
+- 📈 [Stock Recommendation & Portfolio Optimization System](https://github.com/rohan-kate/stock-portfolio-optimizer) — ML-based system that clusters users, categorizes stocks, ranks them using normalization, and optimizes portfolios using a neighbor search algorithm  
+- 🪙 [Financly](https://github.com/rohan-kate/financly) — Personal Finance Dashboard built with React and Firebase  
+- 🧠 [Study Notion](https://github.com/rohan-kate/study-notion) — Online Course Platform using MERN stack  
+
+---
+
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohan-kate-111333250)
+---
+
+⭐️ *Thanks for visiting my profile! Have a great day!* 🌟
